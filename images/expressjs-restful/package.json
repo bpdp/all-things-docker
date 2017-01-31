@@ -1,0 +1,24 @@
+{
+  "name": "expressjs-restful",
+  "version": "1.0.0",
+  "description": "Docker image for RESTful web API using Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [
+    "docker",
+    "REST",
+    "RESTful",
+    "Web",
+    "API",
+    "Express",
+    "JavaScript",
+    "Node.js"
+  ],
+  "author": "bpdp",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
